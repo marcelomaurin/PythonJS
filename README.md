@@ -4,5 +4,8 @@ Este git foi criado para referencia ao artigo do meu site:
 
 Nele apresentamos exemplos de clientes de web services usando python.
 
+<iframe src="https://github.com/marcelomaurin/PythonJS/blob/main/Exemplo%20consumindo%20um%20WS%20JSON%20.ipynb">
+</iframe>
+
 
 
